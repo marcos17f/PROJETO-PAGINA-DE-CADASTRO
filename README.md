@@ -1,21 +1,30 @@
-# 🍕 Site de Pizzaria - HTML, CSS e JavaScript
+# 📋 PROJETO - Página de Cadastro
 
-Este é um site fictício de uma pizzaria, desenvolvido com **HTML5**, **CSS3** e **JavaScript** puro (Vanilla JS). O projeto simula um site real de restaurante, com layout responsivo, interatividade e visual moderno.
+Este projeto é uma **página de cadastro de usuários** desenvolvida com **HTML5**, **CSS3** e **JavaScript**, com foco em usabilidade, acessibilidade e validação de dados. É ideal para compor o front-end de um sistema de login ou registro em plataformas web.
 
-## 🔥 Funcionalidades
+## ✨ Funcionalidades
 
-- Página inicial com banner chamativo
-- Cardápio dinâmico de pizzas
-- Sistema de categorias ou filtros (opcional)
-- Animações suaves com CSS
-- Responsividade para dispositivos móveis
-- Botão de pedido simulando ação via WhatsApp ou formulário
+- Formulário completo com:
+  - Nome
+  - E-mail
+  - Senha
+  - Confirmação de senha
+  - Gênero / Data de nascimento (opcional)
+- Validação de campos obrigatórios
+- Verificação de senha e confirmação
+- Feedback visual com mensagens de erro
+- Design responsivo (funciona em mobile, tablet e desktop)
+- Estilização moderna com foco em UI/UX
 
-## 🧪 Tecnologias Usadas
+## 🛠️ Tecnologias Utilizadas
 
-- **HTML5**: Estrutura da página
-- **CSS3**: Estilização, animações e responsividade
-- **JavaScript**: Interações com o usuário e manipulação do DOM
+- **HTML5** – Estrutura semântica do formulário
+- **CSS3** – Estilização do layout e responsividade
+- **JavaScript (Vanilla)** – Validação de formulário e interações
+
+## 📁 Estrutura de Arquivos
+
+
 
 ## 📁 Estrutura do Projeto
 
